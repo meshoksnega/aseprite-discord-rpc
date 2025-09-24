@@ -57,7 +57,7 @@ pip install colorama pypresence psutil pywin32
 
 4. **Configure the script:**
    - Open `aseprite_rpc.py`
-   - Replace `self.client_id = "1420059941305319504"` with your Application ID
+   - Replace `self.client_id = "ClientID"` with your Application ID
 
 5. **Run:**
 ```bash
