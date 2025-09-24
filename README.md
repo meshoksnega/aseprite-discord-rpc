@@ -30,7 +30,7 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/aseprite-discord-rpc.git
+git clone https://github.com/meshoksnega/aseprite-discord-rpc.git
 cd aseprite-discord-rpc
 ```
 
