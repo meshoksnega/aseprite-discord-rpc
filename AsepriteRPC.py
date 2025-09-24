@@ -237,7 +237,7 @@ class AsepriteRichPresence:
     def run(self):
         print(f"{Fore.CYAN}{Style.BRIGHT}")
         print("╔═════════════════════════════════════════════════╗")
-        print("║         🎨 ASEPRITE DISCORD RICH PRESENCE        ║")
+        print("║        🎨 ASEPRITE DISCORD RICH PRESENCE        ║")
         print("╚═════════════════════════════════════════════════╝")
         print(f"{Style.RESET_ALL}")
         print()
@@ -296,4 +296,5 @@ def main():
     rpc_client.run()
 
 if __name__ == "__main__":
+
     main()
