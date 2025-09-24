@@ -12,8 +12,6 @@
 - 📁 **Multiple file types** - Supports .ase, .png, .gif, .jpg and more
 
 ## 🖼️ What it looks like
-
-**In Discord:**
 ![Example Image](screenshots/DisPrewiew.png)
 
 **Different file types:**
