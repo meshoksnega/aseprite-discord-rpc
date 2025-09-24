@@ -14,11 +14,7 @@
 ## 🖼️ What it looks like
 
 **In Discord:**
-```
-[🎨] Aseprite
-[character_sprite.ase]
-Aseprite file
-```
+![Example Image](screenshots/DisPrewiew.png)
 
 **Different file types:**
 - `[background.png]` → `PNG image`
